@@ -1,0 +1,117 @@
+C:\Users\maestria\documents\visual studio 2010\Projects\Game\Game\bin\Debug\Game.exe
+C:\Users\maestria\documents\visual studio 2010\Projects\Game\Game\bin\Debug\Game.pdb
+C:\Users\maestria\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maestria\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.Form1.resources
+C:\Users\maestria\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\maestria\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maestria\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maestria\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\maestria\documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.pdb
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Game\Game\obj\x86\Debug\Game.exe
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Game\Game\obj\x86\Debug\Game.pdb
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Game\Game\bin\Debug\Game.exe
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Game\Game\bin\Debug\Game.pdb
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Game\Game\obj\x86\Debug\Game.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Game\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Game\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Game\Game\obj\x86\Debug\Game.exe
+E:\Game\Game\obj\x86\Debug\Game.pdb
+E:\Game\Game\bin\Debug\Game.exe
+E:\Game\Game\bin\Debug\Game.pdb
+E:\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Game\Game\obj\x86\Debug\Game.Form1.resources
+E:\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Game\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Game\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Game\Game\obj\x86\Debug\Game.exe
+G:\Game\Game\obj\x86\Debug\Game.pdb
+G:\Game\Game\bin\Debug\Game.exe
+G:\Game\Game\bin\Debug\Game.pdb
+G:\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Game\Game\obj\x86\Debug\Game.Form1.resources
+G:\Game\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Game\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Game\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Knights-Tour\Game\obj\x86\Debug\Game.exe
+G:\Knights-Tour\Game\obj\x86\Debug\Game.pdb
+G:\Knights-Tour\Game\bin\Debug\Game.exe
+G:\Knights-Tour\Game\bin\Debug\Game.pdb
+G:\Knights-Tour\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Knights-Tour\Game\obj\x86\Debug\Game.Form1.resources
+G:\Knights-Tour\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Knights-Tour\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Knights-Tour\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Knights-Tour\Game\obj\x86\Debug\Game.exe
+F:\Knights-Tour\Game\obj\x86\Debug\Game.pdb
+F:\Knights-Tour\Game\bin\Debug\Game.exe
+F:\Knights-Tour\Game\bin\Debug\Game.pdb
+F:\Knights-Tour\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Knights-Tour\Game\obj\x86\Debug\Game.Form1.resources
+F:\Knights-Tour\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Knights-Tour\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Knights-Tour\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Knights-Tour\Game\obj\x86\Debug\Game.exe
+E:\Knights-Tour\Game\obj\x86\Debug\Game.pdb
+E:\Knights-Tour\Game\bin\Debug\Game.exe
+E:\Knights-Tour\Game\bin\Debug\Game.pdb
+E:\Knights-Tour\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Knights-Tour\Game\obj\x86\Debug\Game.Form1.resources
+E:\Knights-Tour\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Knights-Tour\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Knights-Tour\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Knights-Tour\Game\obj\x86\Debug\Game.exe
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Knights-Tour\Game\obj\x86\Debug\Game.pdb
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Knights-Tour\Game\bin\Debug\Game.exe
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Knights-Tour\Game\bin\Debug\Game.pdb
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Knights-Tour\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Knights-Tour\Game\obj\x86\Debug\Game.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Knights-Tour\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Knights-Tour\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\2do Semestre\Knights-Tour\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Knights-Tour-v2\Game\obj\x86\Debug\Game.exe
+E:\Knights-Tour-v2\Game\obj\x86\Debug\Game.pdb
+E:\Knights-Tour-v2\Game\bin\Debug\Game.exe
+E:\Knights-Tour-v2\Game\bin\Debug\Game.pdb
+E:\Knights-Tour-v2\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Knights-Tour-v2\Game\obj\x86\Debug\Game.Form1.resources
+E:\Knights-Tour-v2\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Knights-Tour-v2\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Knights-Tour-v2\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Knights-Tour-v2\Game\obj\x86\Debug\Game.exe
+F:\Knights-Tour-v2\Game\obj\x86\Debug\Game.pdb
+F:\Knights-Tour-v2\Game\bin\Debug\Game.exe
+F:\Knights-Tour-v2\Game\bin\Debug\Game.pdb
+F:\Knights-Tour-v2\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Knights-Tour-v2\Game\obj\x86\Debug\Game.Form1.resources
+F:\Knights-Tour-v2\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Knights-Tour-v2\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Knights-Tour-v2\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Knights-Tour-v2\Game\obj\x86\Debug\Game.exe
+C:\Documents and Settings\Administrador\Escritorio\Knights-Tour-v2\Game\obj\x86\Debug\Game.pdb
+C:\Documents and Settings\Administrador\Escritorio\Knights-Tour-v2\Game\bin\Debug\Game.exe
+C:\Documents and Settings\Administrador\Escritorio\Knights-Tour-v2\Game\bin\Debug\Game.pdb
+C:\Documents and Settings\Administrador\Escritorio\Knights-Tour-v2\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Knights-Tour-v2\Game\obj\x86\Debug\Game.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\Knights-Tour-v2\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Knights-Tour-v2\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Knights-Tour-v2\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Knights-Tour-v2.3\Game\obj\x86\Debug\Game.exe
+F:\Knights-Tour-v2.3\Game\obj\x86\Debug\Game.pdb
+F:\Knights-Tour-v2.3\Game\bin\Debug\Game.exe
+F:\Knights-Tour-v2.3\Game\bin\Debug\Game.pdb
+F:\Knights-Tour-v2.3\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Knights-Tour-v2.3\Game\obj\x86\Debug\Game.Form1.resources
+F:\Knights-Tour-v2.3\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Knights-Tour-v2.3\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Knights-Tour-v2.3\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Knights-Tour-v2.3\Game\obj\x86\Debug\Game.exe
+G:\Knights-Tour-v2.3\Game\obj\x86\Debug\Game.pdb
+G:\Knights-Tour-v2.3\Game\bin\Debug\Game.exe
+G:\Knights-Tour-v2.3\Game\bin\Debug\Game.pdb
+G:\Knights-Tour-v2.3\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Knights-Tour-v2.3\Game\obj\x86\Debug\Game.Form1.resources
+G:\Knights-Tour-v2.3\Game\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Knights-Tour-v2.3\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Knights-Tour-v2.3\Game\obj\x86\Debug\GenerateResource.write.1.tlog
